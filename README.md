@@ -42,10 +42,9 @@ Dashboard 3: Servicios de envío elegidos por los clientes:
 Aproximadamente tres de cada cuatro operaciones se han realizado utilizando el servicio de envío "Ship Services Expedited" (premium), mientras que una de cada cuatro ha optado por el servicio "Ship Services Standard".
 Se destaca que los pedidos realizados con el servicio premium tienen la opción de cancelación, a diferencia de los pedidos con el servicio estándar.
 
-Dashboard 4: Relación entre servicios de envío y provincias:
+Dashboard 4: Relación entre a quien se le realiza la venta y las provincias:
 
-Permite filtrar por provincia y evidenciar que la relación entre los servicios de envío se mantiene constante en todas las provincias.
-Aunque la distribución de las categorías de productos varía, se destaca que la categoría "Kurta" es consistentemente la preferida en el mercado textil hindú.
+Aquí podemos evidenciar que las 4 provincias analizadas se encuentran distribuidas de manera homogénea: Es decir cada provincia no presenta diferencias significativas en cuanto a quien se le a realizado la compra (e-commerce externo o Amazon directo) y en cuanto a la preferencia de categorias de productos elegidos.
 
 ![Dash1](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash1.png)
 
