@@ -6,7 +6,7 @@ En mi  proyecto final del Bootcamp de Data Analytics de IronHack Madrid 2023 les
 
 El objetivo de este proyecto es analizar el comportamiento de los productos más vendidos en el mercado hindú de vestidos femeninos en Amazon. Se ha partido de un archivo en formato CSV que contiene datos reales de ventas, y el análisis se centra en las transacciones realizadas durante el segundo cuatrimestre de 2022, es decir, los meses de abril, mayo y junio 2022.
 
-![productos1](C:\Users\alexi\IronHack\W8-Final_Project\Imagenes\productos1.png)
+![productos1](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/productos1.png)
 
 ![productos2](C:\Users\alexi\IronHack\W8-Final_Project\Imagenes\productos2.png)
 
