@@ -43,6 +43,14 @@ Dashboard 4: Relación entre servicios de envío y provincias:
 Permite filtrar por provincia y evidenciar que la relación entre los servicios de envío se mantiene constante en todas las provincias.
 Aunque la distribución de las categorías de productos varía, se destaca que la categoría "Kurta" es consistentemente la preferida en el mercado textil hindú.
 
+![Dash1](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash1.png)
+
+![Dash2](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash2.png)
+
+![Dash3](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash3.png)
+
+![Dash4](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash4.png)
+
 
 ## Conclusiones 📊
 
