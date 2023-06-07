@@ -14,7 +14,7 @@ El objetivo de este proyecto es analizar el comportamiento de los productos más
 
 - Para enfocar el análisis en transacciones relevantes, se han considerado aquellas cuyo precio es igual o inferior a 500 rupias. Esto se debe a que el salario mínimo y vital en la India ronda los 5.000 rupias mensuales, aproximadamente 57 euros. Por lo tanto, se consideró apropiado analizar transacciones que no superen el 10% del salario mínimo y vital, es decir, transacciones de no más de 500 rupias (menos de 6 euros).
 
-- Ademas, para centrar aun mas el anailis, nos interesaremos en las ventas realizadas a las ciudades y pueblos de los 4 siguiente estados de la India:
+- Además, para centrar aún más el análisis, nos interesaremos en las ventas realizadas a las ciudades y pueblos de los 4 siguiente estados de la India:
 KARNATAKA, MAHARASHTRA, TELANGANA, TAMIL NADU
 
 
@@ -27,17 +27,21 @@ Precios promedio por categoría de producto:
 La categoría "Set" tiene el precio promedio más elevado.
 La categoría "Kurta" tiene los precios más bajos registrados.
 Solo las categorías "Bottom" y "Dupatta" presentan productos con precios considerablemente por debajo del límite establecido de 500 rupias.
+
 Dashboard 1: Preferencias de tallas por estado y ciudad:
 
 En tres de los cuatro estados analizados, se observa que la mayoría de los productos vendidos son de talla XL, mientras que en el estado restante predominan las tallas L.
+
 Dashboard 2: Ventas diarias por categoría de producto y mes:
 
 Permite filtrar por categoría de producto y mostrar las ventas diarias realizadas en cada uno de los tres meses analizados.
 Se pueden observar los picos máximos de operaciones en diferentes momentos del periodo analizado.
+
 Dashboard 3: Servicios de envío elegidos por los clientes:
 
 Aproximadamente tres de cada cuatro operaciones se han realizado utilizando el servicio de envío "Ship Services Expedited" (premium), mientras que una de cada cuatro ha optado por el servicio "Ship Services Standard".
 Se destaca que los pedidos realizados con el servicio premium tienen la opción de cancelación, a diferencia de los pedidos con el servicio estándar.
+
 Dashboard 4: Relación entre servicios de envío y provincias:
 
 Permite filtrar por provincia y evidenciar que la relación entre los servicios de envío se mantiene constante en todas las provincias.
@@ -59,7 +63,7 @@ El análisis del mercado hindú de vestidos femeninos en Amazon revela informaci
 ¡Gracias por su atención!
 
 
-## Pudes conectar conmigo a traves de Linkedin:✍️
+## Puedes conectar conmigo a través de Linkedin:✍️
 
 https://www.linkedin.com/in/alexis-camarasa-deni/
 
