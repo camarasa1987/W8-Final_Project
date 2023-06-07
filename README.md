@@ -1,11 +1,11 @@
-Análisis del mercado hindú de vestidos femeninos en Amazon
+# Análisis del mercado hindú de vestidos femeninos en Amazon
 
 <img src="https://github.com/CharlyKill7/NFL-Success_Visualization/blob/main/images/pass_vs_rush.png" />
 
 
 En mi  proyecto final del Bootcamp de Data Analytics de IronHack Madrid 2023 les presento un análisis del mercado hindú de vestidos femeninos a través de la plataforma de comercio electrónico Amazon. A continuación se detalla el contenido y los hallazgos clave del análisis.
 
-Descripción del proyecto
+## Descripción del proyecto
 
 El objetivo de este proyecto es analizar el comportamiento de los productos más vendidos en el mercado hindú de vestidos femeninos en Amazon. Se ha partido de un archivo en formato CSV que contiene datos reales de ventas, y el análisis se centra en las transacciones realizadas durante el segundo cuatrimestre de 2022, es decir, los meses de abril, mayo y junio 2022.
 
