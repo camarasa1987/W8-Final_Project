@@ -8,7 +8,7 @@ El objetivo de este proyecto es analizar el comportamiento de los productos más
 
 ![productos1](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/productos1.png)
 
-![productos2](C:\Users\alexi\IronHack\W8-Final_Project\Imagenes\productos2.png)
+![productos2](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/prductos2.png)
 
 ## Filtros Aplicados ⬇️
 
