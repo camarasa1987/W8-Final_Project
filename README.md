@@ -42,9 +42,10 @@ Dashboard 3: Servicios de envío elegidos por los clientes:
 Aproximadamente tres de cada cuatro operaciones se han realizado utilizando el servicio de envío "Ship Services Expedited" (premium), mientras que una de cada cuatro ha optado por el servicio "Ship Services Standard".
 Se destaca que los pedidos realizados con el servicio premium tienen la opción de cancelación, a diferencia de los pedidos con el servicio estándar.
 
-Dashboard 4: Relación entre a quien se le realiza la venta y las provincias:
+Dashboard 4: Relación entre quien se le realiza la venta y las provincias:
 
-Aquí podemos evidenciar que las 4 provincias analizadas se encuentran distribuidas de manera homogénea: Es decir cada provincia no presenta diferencias significativas en cuanto a quien se le a realizado la compra (e-commerce externo o Amazon directo) y en cuanto a la preferencia de categorias de productos elegidos.
+Aquí podemos  ver que la presencia o penetración de mercado que tienen los e-commerce externos respecto a las ventas directas de Amazon. Esta relación homogénea por provincia (1 de cada 4 es e-commerce externo y 3 de cada 4 ventas son a Amazon directo). 
+Además vemos que la relación de ventas por provincia por categoría no varía significativamente siendo en todos los casos el producto Kurta el preferido y mas vendido en el mercado textil femenino de la India.
 
 ![Dash1](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash1.png)
 
