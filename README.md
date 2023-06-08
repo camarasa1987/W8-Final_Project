@@ -55,6 +55,9 @@ Además vemos que la relación de ventas por provincia por categoría no varía 
 
 ![Dash4](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/Dash4.png)
 
+Puedes descargar las visualizaciones o simplemente darle click en el siguietne enlace:
+
+https://public.tableau.com/app/profile/alexis.camarasa7525/viz/AmazonIndia2022/Story1?publish=yes
 
 ## Conclusiones 📊
 
