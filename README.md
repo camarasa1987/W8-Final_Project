@@ -1,10 +1,10 @@
-# Análisis del Mercado Hindú de Vestidos Femeninos en Amazon 
+# Análisis del Mercado de Amazon India de Vestidos Femeninos 
 
-En mi  proyecto final del Bootcamp de Data Analytics de IronHack Madrid 2023 les presento un análisis del mercado hindú de vestidos femeninos a través de la plataforma de comercio electrónico Amazon. A continuación se detalla el contenido y los hallazgos clave del análisis.
+En mi  proyecto final del Bootcamp de Data Analytics de IronHack Madrid 2023 les presento un análisis del mercado de la India de vestidos femeninos a través de la plataforma de comercio electrónico Amazon. A continuación se detalla el contenido y los hallazgos clave del análisis.
 
 ## Descripción del Proyecto 👨‍🎓
 
-El objetivo de este proyecto es analizar el comportamiento de los productos más vendidos en el mercado hindú de vestidos femeninos en Amazon. Se ha partido de un archivo en formato CSV que contiene datos reales de ventas, y el análisis se centra en las transacciones realizadas durante el segundo cuatrimestre de 2022, es decir, los meses de abril, mayo y junio 2022.
+El objetivo de este proyecto es analizar el comportamiento de los productos más vendidos en el mercado de Amazon India de vestidos femeninos. Se ha partido de un archivo en formato CSV que contiene datos reales de ventas, y el análisis se centra en las transacciones realizadas durante el segundo trimestre de 2022, es decir, los meses de abril, mayo y junio 2022.
 
 ![productos1](https://github.com/camarasa1987/W8-Final_Project/blob/main/Imagenes/productos1.png)
 
@@ -20,7 +20,7 @@ KARNATAKA, MAHARASHTRA, TELANGANA, TAMIL NADU
 
 ## Visualizaciones y Hallazgos: 📈
 
-El análisis incluye varias visualizaciones que proporcionan información sobre el mercado hindú de vestidos femeninos en Amazon. A continuación se enumeran los principales hallazgos obtenidos:
+El análisis incluye varias visualizaciones que proporcionan información sobre el mercado de la India de vestidos femeninos en Amazon. A continuación se enumeran los principales hallazgos obtenidos:
 
 Precios promedio por categoría de producto:
 
@@ -61,7 +61,7 @@ https://public.tableau.com/app/profile/alexis.camarasa7525/viz/AmazonIndia2022/S
 
 ## Conclusiones 📊
 
-El análisis del mercado hindú de vestidos femeninos en Amazon revela información relevante sobre los productos más vendidos, las preferencias de tallas, las ventas diarias, los servicios de envío y la distribución geográfica de las transacciones. Estos hallazgos pueden ser útiles para comprender mejor el mercado y tomar decisiones informadas en futuras estrategias de venta y marketing.
+El análisis del mercado Amazon India de vestidos femeninos revela información relevante sobre los productos más vendidos, las preferencias de tallas, las ventas diarias, los servicios de envío y la distribución geográfica de las transacciones. Estos hallazgos pueden ser útiles para comprender mejor el mercado y tomar decisiones informadas en futuras estrategias de venta y marketing.
 
 ¡Gracias por su atención!
 
